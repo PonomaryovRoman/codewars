@@ -1,5 +1,7 @@
 import UIKit
 
+// https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/swift
+
 func century(_ year: Int) -> Int {
     return Int((Double(year) / 100).rounded(.up))
     // return (year + 99) / 100
