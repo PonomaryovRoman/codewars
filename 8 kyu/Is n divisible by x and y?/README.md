@@ -9,3 +9,25 @@ Create a function that checks if a number ```n``` is divisible by two numbers ``
 3) n = 100, x = 5, y = 3 => false because 100 is not divisible by 3
 4) n =  12, x = 7, y = 5 => false because  12 is neither divisible by 7 nor 5
 ```
+
+### Solutions:
+```swift
+func isDivisible(_ n: Int, _ x: Int, _ y: Int) -> Bool {
+    return !((n % x) != 0 || (n % y) != 0)
+}
+```
+```swift
+func isDivisible(_ n: Int, _ x: Int, _ y: Int) -> Bool {
+    return n % x == 0 && n % y == 0
+}
+```
+```swift
+func isDivisible(_ n: Int, _ x: Int, _ y: Int) -> Bool {
+    return n.isMultiple(of: x) && n.isMultiple(of: y)
+}
+```
+```swift
+func isDivisible(_ n: Int, _ x: Int, _ y: Int) -> Bool {
+    return n % x + n % y == 0
+}
+```
