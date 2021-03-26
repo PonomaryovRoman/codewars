@@ -11,3 +11,22 @@ with ```size``` 4 should return : ```'1010'```.
 with ```size``` 12 should return :```'101010101010'```.
 
 The size will always be positive and will only use whole numbers.
+
+### Solutions:
+```swift
+func stringy(_ size: Int) -> String {
+    var result = [String](), i = 0
+    while i < size { i += 1; result.append(.init(i % 2)) }
+    return result.joined()
+}
+```
+```swift
+func stringy(_ size: Int) -> String {
+  return (0..<size).map { $0 % 2 == 0 ? "1" : "0" }.joined()
+}
+```
+```swift
+func stringy(_ size: Int) -> String {
+    return (1...size).reduce("") {$0 + "\($1 % 2)"}
+}
+```
