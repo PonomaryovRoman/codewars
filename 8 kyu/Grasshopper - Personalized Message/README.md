@@ -9,3 +9,11 @@ Use conditionals to return the proper message:
 |---|---|
 | name equals owner | 'Hello boss' |
 | otherwise | 'Hello guest' |
+
+
+### Solution:
+```swift
+func great(_ name: String, _ owner: String) -> String {
+    name == owner ? "Hello boss" : "Hello guest"
+}
+```
