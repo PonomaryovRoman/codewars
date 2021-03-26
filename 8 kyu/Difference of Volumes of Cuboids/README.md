@@ -8,3 +8,9 @@ Your function will be tested with pre-made examples as well as random ones.
 
 #### If you can, try writing it in one line of code.
 
+### Solution:
+```swift
+func findDifference(_ a: [Int], _ b: [Int]) -> Int {
+    return a.reduce(1,*) - b.reduce(1,*)
+}
+```
