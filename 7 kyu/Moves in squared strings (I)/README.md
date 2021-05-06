@@ -1,0 +1,46 @@
+# [Moves in squared strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
+
+<div class="markdown prose max-w-none" id="description"><p>This kata is the first of a sequence of four about "Squared Strings".</p>
+<p>You are given a string of <code>n</code> lines, each substring being <code>n</code> characters long: For example:</p>
+<p><code>s = "abcd\nefgh\nijkl\nmnop"</code></p>
+<p>We will study some transformations of this square of strings.</p>
+<ul>
+<li>Vertical mirror:
+vert_mirror (or vertMirror or vert-mirror)<pre><code>vert_mirror(s) =&gt; "dcba\nhgfe\nlkji\nponm"
+</code></pre>
+</li>
+<li>Horizontal mirror:
+hor_mirror (or horMirror or hor-mirror)<pre><code>hor_mirror(s) =&gt; "mnop\nijkl\nefgh\nabcd"
+</code></pre>
+</li>
+</ul>
+<p>or printed:</p>
+<pre><code>vertical mirror   |horizontal mirror   
+abcd --&gt; dcba     |abcd --&gt; mnop 
+efgh     hgfe     |efgh     ijkl 
+ijkl     lkji     |ijkl     efgh 
+mnop     ponm     |mnop     abcd 
+</code></pre>
+<h4 id="task">Task:</h4>
+<ul>
+<li>Write these two functions</li>
+</ul>
+<p>and</p>
+<ul>
+<li><p>high-order function <code>oper(fct, s)</code> where</p>
+</li>
+<li><p>fct is the function of one variable f to apply to the string <code>s</code>
+(fct will be one of <code>vertMirror, horMirror</code>)</p>
+</li>
+</ul>
+<h4 id="examples">Examples:</h4>
+<pre><code>s = "abcd\nefgh\nijkl\nmnop"
+oper(vert_mirror, s) =&gt; "dcba\nhgfe\nlkji\nponm"
+oper(hor_mirror, s) =&gt; "mnop\nijkl\nefgh\nabcd"
+</code></pre>
+<h4 id="note">Note:</h4>
+<p>The form of the parameter <code>fct</code> in oper
+changes according to the language. You can see each form according to the language in "Sample Tests".</p>
+<h4 id="bash-note">Bash Note:</h4>
+<p>The input strings are separated by <code>,</code> instead of <code>\n</code>. The output strings should be separated by <code>\r</code> instead of <code>\n</code>. See "Sample Tests".</p>
+</div>
