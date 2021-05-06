@@ -6,10 +6,12 @@ func circleOfNumbers(_ n: Int, _ fst: Int) -> Int {
     return (n/2 + fst) % n
 }
 
+// Don't forget to remove the number!
 func circleOfNumbers2(_ n: Int, _ fst: Int) -> Int {
     return (fst + n / 2) % n
 }
 
+// Don't forget to remove the number!
 func circleOfNumbers3(_ n: Int, _ fst: Int) -> Int {
     return abs(n/2 > fst ? n/2 + fst : n/2 - fst)
 }
