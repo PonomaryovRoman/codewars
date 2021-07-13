@@ -7,6 +7,11 @@ func evenOrOdd(_ number:Int) -> String {
     return "Even"
 }
 
+// MARK: - Soltuion 2 -
+// func evenOrOdd(_ number:Int) -> String {
+//     return number % 2 == 0 ? "Even" : "Odd"
+// }
+
 import XCTest
 
 class SolutionTest: XCTestCase {
