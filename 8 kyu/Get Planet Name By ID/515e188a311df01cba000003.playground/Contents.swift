@@ -1,6 +1,6 @@
 import Foundation
 
-// Get Planet Name By ID
+// Get Planet Name By ID (Swift)
 // https://www.codewars.com/kata/515e188a311df01cba000003/train/swift
 
 func getPlanetName(_ id: Int) -> String {
