@@ -1,6 +1,6 @@
 import Foundation
 
-// Get the mean of an array
+// Get the mean of an array (Swift)
 // https://www.codewars.com/kata/563e320cee5dddcf77000158/train/swift
 
 func getAverage(_ marks: [Int]) -> Int {
