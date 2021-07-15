@@ -1,5 +1,6 @@
 import Foundation
 
+// Going to the cinema (Swift)
 // https://www.codewars.com/kata/562f91ff6a8b77dfe900006e/train/swift
 
 func movie(card: Double, ticket: Double, perc: Double) -> Int {
@@ -13,8 +14,9 @@ func movie(card: Double, ticket: Double, perc: Double) -> Int {
     return res
 }
 
-// Don't forget to remove the number!
-func movie2(card: Double, ticket: Double, perc: Double) -> Int {
+// MARK: - Solution 2 -
+/*
+func movie(card: Double, ticket: Double, perc: Double) -> Int {
     var a = 0.0, b = card, i = 0
     while a <= ceil(b) {
         i += 1
@@ -23,24 +25,20 @@ func movie2(card: Double, ticket: Double, perc: Double) -> Int {
     }
     return i
 }
+*/
 
 // MARK: - Tests
 
 import XCTest
 
-//      Executed 2 tests, with 0 failures (0 unexpected) in 0.430 (0.432) seconds
+// Executed 2 tests, with 0 failures (0 unexpected) in 0.105 (0.107) seconds
+
 class SolutionTest: XCTestCase {
-    let c1 = 500.0, t1 = 15.0, p1 = 0.9, exp1 = 43
-    let c2 = 100.0, t2 = 10.0, p2 = 0.95, exp2 = 24
-    
-    func test() {
-        XCTAssertEqual(movie(card: c1, ticket: t1, perc: p1), exp1)
-        XCTAssertEqual(movie(card: c2, ticket: t2, perc: p2), exp2)
+    func test0() {
+        XCTAssertEqual(movie(card: 500.0, ticket: 15.0, perc: 0.9), 43)
     }
-    
-    func test2() {
-        XCTAssertEqual(movie2(card: c1, ticket: t1, perc: p1), exp1)
-        XCTAssertEqual(movie2(card: c2, ticket: t2, perc: p2), exp2)
+    func test1() {
+        XCTAssertEqual(movie(card: 100.0, ticket: 10.0, perc: 0.95), 24)
     }
 }
 
