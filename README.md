@@ -1,6 +1,6 @@
 <a href="https://www.codewars.com/users/asahiocean"><img src="https://www.codewars.com/users/asahiocean/badges/large" align="left"></a>
 
-<br><br>
+<br><hr>
 
 <details><summary>8 kyu</summary>
   
