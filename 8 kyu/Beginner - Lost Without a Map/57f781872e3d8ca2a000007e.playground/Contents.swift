@@ -7,9 +7,11 @@ func maps(a: Array<Int>) -> Array<Int> {
     return a.map{$0 * 2} // OK
 }
 
-import XCTest
+// MARK: - Test Cases -
 
-//      Executed 2 tests, with 0 failures (0 unexpected) in 0.007 (0.009) seconds
+// Result: Executed 2 tests, with 0 failures (0 unexpected) in 0.007 (0.009) seconds
+
+import XCTest
 
 class SolutionTest: XCTestCase {
     func test() {
