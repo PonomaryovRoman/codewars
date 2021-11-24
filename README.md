@@ -18,7 +18,7 @@
 | [**Is he gonna survive?**](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | 💡 In process | 🛠 Soon |
 | [**A wolf in sheep's clothing**](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | 💡 In process | 🛠 Soon |
 | [**Stringy Strings**](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | 💡 In process | 🛠 Soon |
-  
+
 </details>
 
 <details><summary>7 kyu</summary>
