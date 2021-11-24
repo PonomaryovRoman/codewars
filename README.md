@@ -7,6 +7,7 @@
 | Kata | Solution |
 |:----:|:--------:|
 | [To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) |          |
+| [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) |          |
 |          |          |
   
 </details>
