@@ -7,7 +7,7 @@
 <br>
 
 | Kata | Solution | Repository |
-|:-----|:--------:|:--------:|
+|:-----|:--------:|:----------:|
 | [**To square(root) or not to square(root)**](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) | 💡 In process | 🛠 Soon |
 | [**Count the Monkeys!**](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | 💡 In process | 🛠 Soon |
 | [**Grasshopper - Check for factor**](https://www.codewars.com/kata/55cbc3586671f6aa070000fb) | 💡 In process | 🛠 Soon |
