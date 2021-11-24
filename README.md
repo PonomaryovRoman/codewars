@@ -4,9 +4,9 @@
 
 <details><summary>8 kyu</summary>
   
-  ```
-  I'LL FILL THIS IN COMING SOON.
-  ```
+| Kata | Solution |
+|:----:|:--------:|
+|          |          |
   
 </details>
 
