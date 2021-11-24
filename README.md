@@ -15,7 +15,7 @@
 | [**Dollars and Cents**](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) | 💡 In process | 🛠 Soon |
 | [**Beginner - Reduce but Grow**](https://www.codewars.com/kata/57f780909f7e8e3183000078) | 💡 In process | 🛠 Soon |
 | [**Grasshopper - Grade book**](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | 💡 In process | 🛠 Soon |
-| [**Is he gonna survive?**](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | 💡 In process | 🛠 Soon |
+| [**Is he gonna survive?**](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/601f54ec9438900001c9cd5d/groups/60ee13cbcbcdf7000161c88d) | 🛠 Soon |
 | [**A wolf in sheep's clothing**](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | 💡 In process | 🛠 Soon |
 | [**Stringy Strings**](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | 💡 In process | 🛠 Soon |
 
