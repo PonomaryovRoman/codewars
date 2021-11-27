@@ -2,7 +2,7 @@
 
 ### Stats
 
-<details><summary>8 kyu</summary>
+<details><summary><b>8 kyu</b></summary>
 
 <br>
 
