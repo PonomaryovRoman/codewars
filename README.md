@@ -29,7 +29,7 @@
 
 </details>
 
-<details><summary>6 kyu</summary>
+<details><summary><b>6 kyu</b></summary>
   
   ```
   I'LL FILL THIS IN COMING SOON.
@@ -37,7 +37,7 @@
   
 </details>
 
-<details><summary>5 kyu</summary>
+<details><summary><b>5 kyu</b></summary>
   
   ```
   I'LL FILL THIS IN COMING SOON.
