@@ -21,7 +21,7 @@
 
 </details>
 
-<details><summary>7 kyu</summary>
+<details><summary><b>7 kyu</b></summary>
 
   ```
   I'LL FILL THIS IN COMING SOON.
