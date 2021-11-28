@@ -1,4 +1,4 @@
-<h1>Codewars<img src="https://git.io/JMcoU" height="44" align="right"></h1>
+<h1>Codewars<a href="https://giphy.com/gifs/transparent-PST7uhCwPGhZstgMsn"><img src="https://git.io/JMcoU" height="44" align="right"></a></h1>
  
 <div align="left">
   <img src="https://img.shields.io/github/repo-size/asahiocean/Codewars.svg">
