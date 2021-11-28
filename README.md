@@ -28,7 +28,7 @@
 | [**Stringy Strings**](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/5807bdbfb95ecaa31800007c/groups/605e63874ac1060001e2a617) | [**OPEN**](https://git.io/JMUkT) |
 | [**Gravity Flip**](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | 💡 In process | 🛠 Soon |
 | [**Square(n) Sum**](https://www.codewars.com/kata/515e271a311df0350d00000f) | 💡 In process | 🛠 Soon |
-| [**Fake Binary**](https://www.codewars.com/kata/57eae65a4321032ce000002d) |          |          |
+| [**Fake Binary**](https://www.codewars.com/kata/57eae65a4321032ce000002d) |          | 💡 In process | 🛠 Soon |
 | [****]() |          |          |
 | [****]() |          |          |
 | [****]() |          |          |
