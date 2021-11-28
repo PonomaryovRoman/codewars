@@ -1,5 +1,5 @@
-# Codewars
-
+<h1>Codewars<img src="https://git.io/JMcga" height="44" align="right"></h1>
+ 
 <div align="left">
   <img src="https://img.shields.io/github/repo-size/asahiocean/Codewars.svg">
   <img src="https://img.shields.io/github/commit-activity/y/asahiocean/Codewars">
