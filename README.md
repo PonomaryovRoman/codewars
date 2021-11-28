@@ -30,7 +30,7 @@
 | [**Square(n) Sum**](https://www.codewars.com/kata/515e271a311df0350d00000f) | 💡 In process | 🛠 Soon |
 | [**Fake Binary**](https://www.codewars.com/kata/57eae65a4321032ce000002d) |          💡 In process | 🛠 Soon |
 | [**Sum Mixed Array**](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | 💡 In process | 🛠 Soon |
-| [**Quarter of the year**](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | 💡 In process |          |
+| [**Quarter of the year**](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | 💡 In process | 🛠 Soon |
 | [****]() |          |          |
 | [****]() |          |          |
 | [****]() |          |          |
