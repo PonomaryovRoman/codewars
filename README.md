@@ -29,7 +29,7 @@
 | [**Gravity Flip**](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | 💡 In process | 🛠 Soon |
 | [**Square(n) Sum**](https://www.codewars.com/kata/515e271a311df0350d00000f) | 💡 In process | 🛠 Soon |
 | [**Fake Binary**](https://www.codewars.com/kata/57eae65a4321032ce000002d) |          💡 In process | 🛠 Soon |
-| [**Sum Mixed Array**](https://www.codewars.com/kata/57eaeb9578748ff92a000009) |          |          |
+| [**Sum Mixed Array**](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | 💡 In process |          |
 | [****]() |          |          |
 | [****]() |          |          |
 | [****]() |          |          |
