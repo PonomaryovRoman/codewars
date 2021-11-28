@@ -28,6 +28,7 @@
 | [**Stringy Strings**](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/5807bdbfb95ecaa31800007c/groups/605e63874ac1060001e2a617) | [**OPEN**](https://git.io/JMUkT) |
 |          |          |          |
 |          |          |          |
+|          |          |          |
 
 </details>
 
