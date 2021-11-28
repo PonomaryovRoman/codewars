@@ -22,7 +22,7 @@
 | [**Get Planet Name By ID**](https://www.codewars.com/kata/515e188a311df01cba000003) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/5e940854df14380001f5d587/groups/60ee112a99b9fb0001737183) | [**OPEN**](https://git.io/JMJYy) |
 | [**Dollars and Cents**](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/58d050be37d57604be0000f3/groups/61a3057b5747160001915ac7) | [**OPEN**](https://git.io/JMCsB) |
 | [**Beginner - Reduce but Grow**](https://www.codewars.com/kata/57f780909f7e8e3183000078) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/5cc2cbea840f4b0001541f2f/groups/61a306475747160001915ad8) | [**OPEN**](https://git.io/JMCs9) |
-| [**Grasshopper - Grade book**](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | 💡 In process | 🛠 Soon |
+| [**Grasshopper - Grade book**](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/60378497eb3cc10001f82f0b/groups/61a30983b6bf540001d41008) | [**OPEN**](https://git.io/JMCGq) |
 | [**Is he gonna survive?**](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/601f54ec9438900001c9cd5d/groups/60ee13cbcbcdf7000161c88d) | [**OPEN**](https://git.io/JMUfj) |
 | [**A wolf in sheep's clothing**](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | 💡 In process | 🛠 Soon |
 | [**Stringy Strings**](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | ✅ [**SOLVED**](https://www.codewars.com/kata/reviews/5807bdbfb95ecaa31800007c/groups/605e63874ac1060001e2a617) | [**OPEN**](https://git.io/JMUkT) |
