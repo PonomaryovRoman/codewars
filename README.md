@@ -33,7 +33,7 @@
 | [**Quarter of the year**](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | 💡 In process | 🛠 Soon |
 | [**Enumerable Magic #25 - Take the First N Elements**](https://www.codewars.com/kata/545afd0761aa4c3055001386) | 💡 In process | 🛠 Soon |
 | [**Multiplication table for number**](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | 💡 In process | 🛠 Soon |
-| [**Get the mean of an array**]() |          |          |
+| [**Get the mean of an array**](https://www.codewars.com/kata/563e320cee5dddcf77000158) |          |          |
 | [****]() |          |          |
 
 </details>
