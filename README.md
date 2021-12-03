@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/github/repo-size/asahiocean/Codewars.svg">
   <img src="https://img.shields.io/github/commit-activity/y/asahiocean/Codewars">
   <img src="https://img.shields.io/github/last-commit/asahiocean/Codewars">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/asahiocean/Codewars&left_text=views" align="right"></img><a href="https://codewars.com/users/asahiocean"><img src="https://codewars.com/users/asahiocean/badges/micro" align="right"></img></a>
+  <img src="https://tinyurl.com/4z43xxx8">
+  <a href="https://codewars.com/users/asahiocean"><img src="https://codewars.com/users/asahiocean/badges/micro" align="right"></img></a>
 </div>
 
 
