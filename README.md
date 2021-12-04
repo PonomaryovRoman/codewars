@@ -1,5 +1,5 @@
-<h1>Codewars<a href="https://giphy.com/gifs/transparent-PST7uhCwPGhZstgMsn"><img src="https://git.io/JMcoU" height="44" align="right"></a></h1>
- 
+<h1>Codewars<a href="https://gph.is/st/mqqDGdx"><img src="https://content-na.drive.amazonaws.com/v2/download/presigned/016huVTeID5wXktxZgxD1ixwG_756uPemSiCz6Bkbt0eJxFPc?download=true&ownerId=ALW7JRQ9WJZNK" height="44" align="right"></a></h1>
+
 <div align="left">
   <img src="https://img.shields.io/github/repo-size/asahiocean/Codewars.svg">
   <img src="https://img.shields.io/github/commit-activity/y/asahiocean/Codewars">
