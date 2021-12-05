@@ -19,5 +19,5 @@ jobs:
           git add -A
           git commit -am "Update file"
           git push
-          github.actions.cancelWorkflowRun({ owner, repo, run_id });
           sleep 60
+          github.actions.cancelWorkflowRun({ owner, repo, run_id });
