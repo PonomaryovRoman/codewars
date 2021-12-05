@@ -4,21 +4,20 @@ on:
   schedule:
   - cron: '0 0 * * *'
 jobs:
-  build:
+  report:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Commit files
-      run: |
-        git config --global user.name 'PonomaryovRoman'
-        git config --global user.email 'PonomaryovRoman@users.noreply.github.com'
-        run: date +%s >> update.txt
-        git commit -m "Update" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.PERSONAL_TOKEN }}
-      run: |
-        git push
-        github.actions.cancelWorkflowRun({ owner, repo, run_id });
-        sleep 60
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+      - name: 'Update file'
+        run: date +%s >> report.txt
+      - name: Commit report
+        run: |
+          git config --global user.name 'PonomaryovRoman'
+          git config --global user.email 'PonomaryovRoman@users.noreply.github.com'
+          git add -A
+          git commit -am "Update file"
+          git push
+          github.actions.cancelWorkflowRun({ owner, repo, run_id });
+          sleep 60
