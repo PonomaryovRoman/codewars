@@ -10,6 +10,6 @@ jobs:
       - uses: tgymnich/fork-sync@v1.4
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          owner: llvm
+          owner: asahiocean
           base: main
           head: main
