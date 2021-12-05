@@ -13,3 +13,5 @@ jobs:
           owner: asahiocean
           base: main
           head: main
+          merge_method: merge
+          auto_approve: true
