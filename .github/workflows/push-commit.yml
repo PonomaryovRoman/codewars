@@ -10,8 +10,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-      - name: Create report file
-        run: date +%s > report.txt
+      - name: Update file
+        run: date +%s >> report.txt
       - name: Commit report
         run: |
           git config --global user.name 'PonomaryovRoman'
