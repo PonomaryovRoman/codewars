@@ -1,16 +1,17 @@
-name: Push commit
+name: Commit bot
 on: 
   push:
   schedule:
-  - cron: '0 */12 * * *'
+  - cron: '0 0 * * *'
 jobs:
   report:
+    name: 'Push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-      - name: Update file
+      - name: 'Update file'
         run: date +%s >> report.txt
       - name: Commit report
         run: |
@@ -19,3 +20,12 @@ jobs:
           git add -A
           git commit -am "Update file"
           git push
+  cancel:
+    name: 'Cancel Previous Runs'
+    runs-on: ubuntu-latest
+    timeout-minutes: 720
+    steps:
+      - uses: styfle/cancel-workflow-action@0.9.1
+        with:
+          workflow_id: 'commit-bot'
+          access_token: ${{ github.token }}
