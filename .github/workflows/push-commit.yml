@@ -2,7 +2,7 @@ name: Push commit
 on: 
   push:
   schedule:
-  - cron: '*/1 * * * *'
+  - cron: '*/60 * * * *'
 jobs:
   report:
     runs-on: ubuntu-latest
