@@ -19,7 +19,8 @@ func dirReduc(_ arr: [String]) -> [String] {
     return arr
 }
 
-// MARK: Solution 2
+// MARK: - Solution 2 -
+
 /*
 func dirReduc(_ arr: [String]) -> [String] {
     var result = [String]()
