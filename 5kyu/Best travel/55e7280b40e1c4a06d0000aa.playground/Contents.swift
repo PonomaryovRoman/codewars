@@ -8,8 +8,10 @@ func chooseBestSum(_ t: Int, _ k: Int, _ ls: [Int]) -> Int {
         if k == 0 { return [n] }
         guard !n.isEmpty, k != 0 else { return [] }
         guard k != 1 else { return n.map { [$0] } }
-        var arrs = [[Int]]()
+        
+        var arrs: [[Int]] = []
         let tail = Array(n.suffix(from: 1))
+        
         arrs += combinations(tail, k - 1).map{[n[0]] + $0}
         arrs += combinations(tail, k)
         return arrs
