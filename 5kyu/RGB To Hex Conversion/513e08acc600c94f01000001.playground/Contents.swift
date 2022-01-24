@@ -5,8 +5,8 @@ import Foundation
 
 func rgb(_ r: Int, _ g: Int, _ b: Int) -> String {
     func toHex(_ v: Int) -> String {
-        let s = String(format: "%02X", max(0, min(v, 255)))
-        return (s.count == 1 ? "0" : "") + s
+        let str = String(format: "%02X", max(0, min(v, 255)))
+        return (str.count == 1 ? "0" : "") + str
     }
     return toHex(r) + toHex(g) + toHex(b) // OK
 }
