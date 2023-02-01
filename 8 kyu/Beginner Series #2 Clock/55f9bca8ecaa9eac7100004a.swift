@@ -4,23 +4,26 @@ import Foundation
 // https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/swift
 
 func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
-    return (s + m * 60 + h * 3600) * 1000 // OK
+    return (s + m * 60 + h * 3600) * 1000
 }
 
-// MARK: - Solution 2 -
-// func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
-//     return (h * 3600000) + (m * 60000) + (s * 1000)
-// }
+/*
+func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
+    return (h * 3600000) + (m * 60000) + (s * 1000)
+}
+*/
 
-// MARK: - Solution 3 -
-// func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
-//     return (h * 60 * 60 + m * 60 + s) * 1000
-// }
+/*
+func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
+    return (h * 60 * 60 + m * 60 + s) * 1000
+}
+*/
 
-// MARK: - Solution 4 -
-// func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
-//     return (s + ((h * 60) + m) * 60) * 1000
-// }
+/*
+func past(_ h: Int, _ m: Int, _ s: Int) -> Int {
+    return (s + ((h * 60) + m) * 60) * 1000
+}
+*/
 
 import XCTest
 

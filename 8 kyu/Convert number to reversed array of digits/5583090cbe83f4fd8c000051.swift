@@ -3,15 +3,15 @@ import Foundation
 // Convert number to reversed array of digits
 // https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/swift
 
-func digitize(_ num:Int) -> [Int] {
+func digitize(_ num: Int) -> [Int] {
     return "\(num)".map{$0.wholeNumberValue!}.reversed()
 }
 
-// MARK: - Solution Test -
-
-import XCTest
+// MARK: - Tests -
 
 // Executed 2 tests, with 0 failures (0 unexpected) in 0.028 (0.030) seconds
+
+import XCTest
 
 class SolutionTest: XCTestCase {
     func testReversedArrayOfDigits() {
